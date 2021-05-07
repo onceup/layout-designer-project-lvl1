@@ -1,0 +1,8 @@
+node_modules
+index copy.html
+styles/style.css.map
+styles/style2.css
+package.json
+package-lock.json
+styles/style.scss
+index.js
